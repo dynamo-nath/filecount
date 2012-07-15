@@ -1,5 +1,5 @@
 This is my first attempt at a complete Python 3 program. It's purpose is to determine how many types of each file are in a selected location. It utilises a tkinter GUI interface and commands from the os module.
-Under Linux, run the main.pyw file (ideally set as an executable text file). I can't 100% sure of the results under Windows due to the use of \ rather than /
+Under Linux, run the main.pyw file (ideally set as an executable text file). I can't be 100% sure of the results under Windows due to the use of \ rather than /
 
 N Waterman
 14 July 2012
